@@ -1,0 +1,127 @@
+|   index.php
+|   
++---css
+|       bootstrap.min.css
+|       style.css
+|       
++---data
+|   |   log.txt
+|   |   php_sajt_baza_back_up.sql
+|   |   
+|   \---information
+|           Dokumentacija.docx
+|           Dokumentacija.pdf
+|           sitemap.xml
+|           
++---img
+|   |   about.jpg
+|   |   author.jpg
+|   |   blog-1.jpg
+|   |   blog-2.jpg
+|   |   favicon.ico
+|   |   hero.jpg
+|   |   offer.jpg
+|   |   product-1.png
+|   |   product-2.png
+|   |   product-3.png
+|   |   product-4.png
+|   |   product-5.png
+|   |   team-1.jpg
+|   |   team-2.jpg
+|   |   team-3.jpg
+|   |   team-4.jpg
+|   |   team-5.jpg
+|   |   testimonial-1.jpg
+|   |   testimonial-2.jpg
+|   |   testimonial.jpg
+|   |   user.jpg
+|   |   
+|   \---allProducts
+|           birdFood.jpg
+|           bowl-2.jpg
+|           bowl-3.jpg
+|           bowl-4.jpg
+|           bowl-5.jpg
+|           bowl.jpg
+|           catCollar.jpg
+|           catFood-2.jpg
+|           catFood.jpg
+|           catToy-2.jpg
+|           catToy-3.jpg
+|           catToy.jpg
+|           dogCollar-2.jpg
+|           dogCollar-3.jpg
+|           dogCollar-4.jpg
+|           dogCollar.jpg
+|           dogFood-2.jpg
+|           dogFood.jpg
+|           dogToy-2.jpg
+|           dogToy-3.jpg
+|           dogToy.jpg
+|           
++---js
+|       contact.js
+|       login.js
+|       main.js
+|       product.js
+|       
++---lib
+|      
++---models
+|       activateAccount.php
+|       anketa.php
+|       functions.php
+|       ispisProizvoda.php
+|       izbrisi.php
+|       izbrisiKategorije.php
+|       izbrisiKorisnike.php
+|       izbrisiTip.php
+|       izmeniProizvod.php
+|       korpa.php
+|       logout.php
+|       logovanje.php
+|       odblokiraj.php
+|       order.php
+|       paginacija.php
+|       registracija.php
+|       sendMessage.php
+|       unesi.php
+|       unesiKategorijuTip.php
+|       
++---scss
+|                   
++---setup
+|       .env
+|       config.php
+|       konekcija.php
+|       
+\---views
+    +---fixed
+    |       footer.php
+    |       head.php
+    |       nav.php
+    |       pages.php
+    |       topBar.php
+    |       
+    +---pages
+    |       about.php
+    |       admin.php
+    |       cart.php
+    |       contact.php
+    |       details.php
+    |       home.php
+    |       izmeni.php
+    |       login.php
+    |       price.php
+    |       product.php
+    |       service.php
+    |       
+    \---pomocni
+            categories.php
+            priceList.php
+            serviceList.php
+            specialProducts.php
+            survey.php
+            type.php
+            writingAuthor.php
+            
